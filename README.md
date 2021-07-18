@@ -1,2 +1,2 @@
-# final-reactCard-build
+# my-react-card
 Created with CodeSandbox
